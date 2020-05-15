@@ -1,0 +1,74 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #FFFFFF
+}
+
+/*image:hover{
+  background-color: gold
+}*/
+.derp {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.vacation {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.school {
+  width: 200px;
+  height: 200px;
+  border-radius: 75%;
+  margin-left: 50px;
+}
+
+.top-container {
+  background-color: #FBCFFC;
+  margin-top: 1px;
+  text-align: center;
+}
+
+.pancakes {
+  width: 700px;
+}
+.me-container{
+  text-align: center;
+}
+
+.flower {
+  width: 60px;
+  height: 100px;
+
+}
+
+.second-container {
+  background-color: #ffffdd
+}
+
+.third-container {
+  background-color: #CFF1EF
+}
+
+.fourth-container {
+  background-color: #C2F0FC
+}
+
+.fifth-container {
+  background-color: #aca8ff;
+}
+
+.lavender {
+  color: #B57EDC
+}
+
+body {
+  font-family: fantasy;
+}

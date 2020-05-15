@@ -1,0 +1,15 @@
+body{
+  font-family: fantasy;
+}
+.Title{
+  text-align: center;
+}
+.top-container{
+  background-color: #ffe8df
+}
+.LV-drinks {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  margin-left: 500px
+}

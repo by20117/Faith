@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+.top-container {
+  background-color: #FFE3ED
+}
+
+.second-container {
+  background-color: #FFFFFF
+}
+
+
+tr:hover {
+  background-color: #BEEBE9
+}
+
+th, td {
+  border-bottom: 1px solid #8ac6d1
+}
+
+td, th {
+  padding: 15px;
+  text-align: left;
+
+}
+/*tr:nth-child(even) {
+  background-color: #FFFFFF}*/
