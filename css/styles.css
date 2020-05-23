@@ -27,13 +27,14 @@ h1 {
   width: 200px;
   height: 200px;
   border-radius: 75%;
-  margin-left: 50px;
+  margin-left: 30%;
 }
 
 .top-container {
   background-color: #FBCFFC;
   margin-top: 1px;
   text-align: center;
+
 }
 
 .pancakes {
@@ -50,19 +51,47 @@ h1 {
 }
 
 .second-container {
-  background-color: #ffffdd
+  background-color: #ffffdd;
+}
+.sec-container{
+  margin-left: 10%;
 }
 
 .third-container {
-  background-color: #CFF1EF
+  /*background-color: #CFF1EF;*/
+  float:left;
+  background:#CFF1EF;
+  width:50%;
+  height:300px;
 }
-
+.hob{
+  text-align: center;
+}
+.thd-container {
+  margin-left:10%
+}
+.third-fourth-container {
+margin-left: 15%;
+}
 .fourth-container {
-  background-color: #C2F0FC
+  /*background-color: #C2F0FC*/
+  float:left;
+  background:#C2F0FC;
+  width:50%;
+  height: 300px;
+}
+.PI {
+  text-align: center;
+}
+.frth-container {
+  margin-left: 10%;
 }
 
 .fifth-container {
   background-color: #aca8ff;
+}
+.fth-container {
+  margin-left: 10%;
 }
 
 .lavender {
