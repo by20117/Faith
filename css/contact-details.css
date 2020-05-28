@@ -7,9 +7,20 @@ h1 {
 }
 
 .second-container {
-  background-color: #FFFFFF
+  background-color: #FFFFFF;
+
 }
 
+.picture {
+
+}
+
+.photo {
+  width: 250px;
+  height: 350px;
+  border-radius: 15%;
+padding:20px;
+}
 
 tr:hover {
   background-color: #BEEBE9
@@ -22,7 +33,7 @@ th, td {
 td, th {
   padding: 15px;
   text-align: left;
-
 }
+
 /*tr:nth-child(even) {
   background-color: #FFFFFF}*/

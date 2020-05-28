@@ -31,7 +31,7 @@ h1 {
 }
 
 .top-container {
-  background-color: #FBCFFC;
+  background-color: #e3fdfd /*#FBCFFC*/;
   margin-top: 1px;
   text-align: center;
 
@@ -42,6 +42,7 @@ h1 {
 }
 .me-container{
   text-align: center;
+  background-color: #cbf1f5;
 }
 
 .flower {
@@ -51,7 +52,7 @@ h1 {
 }
 
 .second-container {
-  background-color: #ffffdd;
+  background-color: #cadefc/*#ffffdd*/;
 }
 .sec-container{
   margin-left: 10%;
@@ -60,7 +61,7 @@ h1 {
 .third-container {
   /*background-color: #CFF1EF;*/
   float:left;
-  background:#CFF1EF;
+  background:#c3bef0/*#CFF1EF*/;
   width:50%;
   height:300px;
 }
@@ -76,7 +77,7 @@ margin-left: 15%;
 .fourth-container {
   /*background-color: #C2F0FC*/
   float:left;
-  background:#C2F0FC;
+  background:#c3bef0/*#C2F0FC*/;
   width:50%;
   height: 300px;
 }
@@ -88,7 +89,7 @@ margin-left: 15%;
 }
 
 .fifth-container {
-  background-color: #aca8ff;
+  background-color: #cca8e9/*#aca8ff*/;
 }
 .fth-container {
   margin-left: 10%;
